@@ -1,4 +1,4 @@
-# Weather WebApp 🌤
+# Weather WebApp 
 
 A weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data using an external API and displays current weather information based on user input.
 
